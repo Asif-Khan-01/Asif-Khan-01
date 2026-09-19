@@ -131,8 +131,8 @@ Random Forest gave the best balance, catching about 99% of real asteroids with a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00f0ff?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=05060f)](https://www.linkedin.com/in/muhammad-asif-khan-3076801bb/)
-[![Email](https://img.shields.io/badge/EMAIL-muhammadasifk2001@gmail.com-ff2bd6?style=for-the-badge&logo=gmail&logoColor=ff2bd6&labelColor=05060f)](mailto:muhammadasifk2001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FFC300?style=for-the-badge&logo=linkedin&logoColor=FFC300&labelColor=2a0a24)](https://www.linkedin.com/in/muhammad-asif-khan-3076801bb/)
+[![Email](https://img.shields.io/badge/EMAIL-muhammadasifk2001@gmail.com-FF5733?style=for-the-badge&logo=gmail&logoColor=FF5733&labelColor=2a0a24)](mailto:muhammadasifk2001@gmail.com)
 
 <img src="assets/footer.svg" alt="End of transmission" width="100%" />
 
